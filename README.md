@@ -35,4 +35,4 @@
 
 ## Screenshots
 
-![App Screenshot](URL_Screenshot)
+![App Screenshot](https://github.com/Koezingone/AplikasiPerhitunganDiskon/blob/main/img/perhitunganDiskon.gif)
